@@ -1,0 +1,14 @@
+/* нормализация стилей */
+@import url(../vendor/normalize.css);
+
+/* подключение шрифтов */
+@import url(../blocks/fonts/fonts.css);
+
+/* общие стили для всей страницы */
+@import url(../blocks/page/page.css);
+
+/* стили для блока header */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__lang/header__lang.css);
+@import url(../blocks/header/__lang-link/header__lang-link.css);
