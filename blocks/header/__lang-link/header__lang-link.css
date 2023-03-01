@@ -4,8 +4,10 @@
    font-weight: 400;
    text-decoration: none;
    margin-right: 18px;
+   text-decoration: underline;
 }
 
 .header__lang-link:last-child {
    margin-right: 0;
+   text-decoration: none;
 }

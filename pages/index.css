@@ -28,3 +28,7 @@
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__list/_text/intro__list_text.css);
 @import url(../blocks/intro/__list/_span/intro__list_span.css);
+
+/* стили для блока photo-grid */
+@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
