@@ -1,6 +1,7 @@
-.header {
+.footer {
    display: flex;
+   align-content: center;
    justify-content: space-between;
    width: 1184px;
-   margin: 28px auto 0;
+   margin: 92px auto 24px auto;
 }
