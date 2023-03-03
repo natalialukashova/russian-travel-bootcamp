@@ -2,5 +2,24 @@
   display: flex;
   flex-direction: column;
   margin: 92px 0 0 148px;
-  max-width: 690px;
+  width: 690px;
+}
+
+@media screen and (max-width: 1024px) {
+  .intro {
+    margin: 92px 0 0 48px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .intro {
+    width: 720px;
+    margin: 88px auto 0 auto;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .intro {
+    width: 288px;
+  }
 }

@@ -2,3 +2,9 @@
   display: grid;
   justify-content: center;
 }
+
+@media screen and (max-width: 768px) {
+  .places {
+    margin: 0 24px 0 24px;
+  }
+}
