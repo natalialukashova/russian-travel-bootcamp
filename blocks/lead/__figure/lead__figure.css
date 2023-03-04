@@ -4,14 +4,14 @@
   margin: 64px auto 0 auto;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1289px) {
   .lead__figure {
     max-width: 928px;
     max-height: 602px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   .lead__figure {
     max-width: 768px;
     max-height: 502px;
@@ -19,7 +19,7 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .lead__figure {
     max-width: 320px;
     max-height: 222px;

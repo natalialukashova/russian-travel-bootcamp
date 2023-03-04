@@ -6,20 +6,20 @@
    column-gap: 40px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1279px) {
    .place {
       grid-template-columns: minmax(440px, 1fr) minmax(456px, 1fr);
    }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
    .place {
       grid-template-columns: minmax(340px, 1fr) minmax(352px, 1fr);
       gap: 48px 30px;
    }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
    .place {
       gap: 32px;
       grid-template-columns: 1fr;

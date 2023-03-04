@@ -5,20 +5,20 @@
   max-width: 690px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1289px) {
   .intro {
     margin: 92px 0 0 48px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   .intro {
     max-width: 720px;
     margin: 88px auto 0 auto;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .intro {
     max-width: 288px;
   }
