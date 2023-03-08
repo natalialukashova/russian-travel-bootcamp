@@ -4,6 +4,13 @@
    font-weight: 400;
    text-transform: uppercase;
    margin-top: 8px;
+   letter-spacing: 1.5px;
+}
+
+@media screen and (max-width: 1023px) {
+   .lead__caption {
+      margin-left: 24px;
+   }
 }
 
 @media screen and (max-width: 767px) {

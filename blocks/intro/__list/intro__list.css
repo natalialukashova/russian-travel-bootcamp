@@ -1,3 +1,6 @@
 .intro__list {
    margin-top: 33px;
+   padding-left: 0;
+   margin-bottom: 0;
+   list-style: none;
 }

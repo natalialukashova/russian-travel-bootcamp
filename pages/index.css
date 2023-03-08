@@ -2,7 +2,7 @@
 @import url(../vendor/normalize.css);
 
 /* подключение шрифтов */
-@import url(../blocks/fonts/fonts.css);
+@import url(../vendor/fonts/fonts.css);
 
 /* общие стили для всей страницы */
 @import url(../blocks/page/page.css);
@@ -12,6 +12,7 @@
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__lang/header__lang.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
+@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
 
 /* стили для блока lead */
 @import url(../blocks/lead/lead.css);

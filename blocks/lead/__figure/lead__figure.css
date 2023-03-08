@@ -1,20 +1,18 @@
 .lead__figure {
   max-width: 984px;
-  max-height: 637px;
   margin: 64px auto 0 auto;
 }
 
-@media screen and (max-width: 1289px) {
+@media screen and (max-width: 1279px) {
   .lead__figure {
     max-width: 928px;
-    max-height: 602px;
+    margin-top: 56px;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .lead__figure {
     max-width: 768px;
-    max-height: 502px;
     margin: 56px auto 0 auto;
   }
 }
@@ -22,7 +20,6 @@
 @media screen and (max-width: 767px) {
   .lead__figure {
     max-width: 320px;
-    max-height: 222px;
     margin: 40px auto 0 auto;
   }
 }

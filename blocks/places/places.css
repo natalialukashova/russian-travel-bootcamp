@@ -1,10 +1,17 @@
 .places {
   display: grid;
   justify-content: center;
+  margin-top: 92px;
 }
 
 @media screen and (max-width: 1023px) {
   .places {
-    margin: 0 24px 0 24px;
+    margin: 88px 24px 0 24px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .places {
+    margin: 64px 0 0 0;
   }
 }
