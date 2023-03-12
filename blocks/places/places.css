@@ -4,6 +4,13 @@
   margin-top: 92px;
 }
 
+@media screen and (max-width: 1279px) {
+  .places {
+    margin-right: 48px;
+    margin-left: 48px;
+  }
+}
+
 @media screen and (max-width: 1023px) {
   .places {
     margin: 88px 24px 0 24px;

@@ -3,7 +3,7 @@
    grid-template-columns: 460px 1fr;
    margin: 80px 0 0 0;
    max-width: 984px;
-   column-gap: 40px;
+   column-gap: 32px;
 }
 
 .place:first-child {
@@ -30,9 +30,5 @@
       gap: 32px;
       grid-template-columns: 1fr;
       margin: 50px 0 0 0;
-   }
-
-   .place:first-child {
-      margin: 0;
    }
 }
